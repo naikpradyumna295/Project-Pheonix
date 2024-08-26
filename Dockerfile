@@ -30,3 +30,4 @@ EXPOSE 4499
 
 # Run the script
 CMD ["/bin/bash", "/app/wisecow.sh"]
+
